@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on </title>
+    <link>http://thequant.ca/page/</link>
+    <description>Recent content in Pages on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <managingEditor>aaron@thequant.ca (Aaron Janeiro Stone)</managingEditor>
+    <webMaster>aaron@thequant.ca (Aaron Janeiro Stone)</webMaster>
+    <lastBuildDate>Tue, 28 Nov 2023 01:07:25 -0500</lastBuildDate><atom:link href="http://thequant.ca/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://thequant.ca/page/about/</link>
+      <pubDate>Tue, 28 Nov 2023 01:07:25 -0500</pubDate>
+      <author>aaron@thequant.ca (Aaron Janeiro Stone)</author>
+      <guid>http://thequant.ca/page/about/</guid>
+      <description>I am Aaron Janeiro Stone, and I am building this website as a place to share my thoughts on quantitative finance, open source software, and other topics that interest me. Moreover, I hope to use this space to share some of my own projects and developments.
+I currently am a Quantitative Analyst at VirgoCX, a cryptocurrency exchange based in Toronto, Canada. My work is mainly in market making, algorithmic trading, and quantitative research.</description>
+    </item>
+    
+  </channel>
+</rss>
