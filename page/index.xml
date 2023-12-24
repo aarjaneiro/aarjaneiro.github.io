@@ -15,8 +15,8 @@
       <pubDate>Tue, 28 Nov 2023 01:07:25 -0500</pubDate>
       <author>aaron@thequant.ca (Aaron Janeiro Stone)</author>
       <guid>http://thequant.ca/page/about/</guid>
-      <description>I am Aaron Janeiro Stone, and I am building this website as a place to share my thoughts on quantitative finance, open source software, and other topics that interest me. Moreover, I hope to use this space to share some of my own projects and developments.
-I currently am a Quantitative Analyst at VirgoCX, a cryptocurrency exchange based in Toronto, Canada. My work is mainly in market making, algorithmic trading, and quantitative research.</description>
+      <description>I am Aaron Janeiro Stone, a Quantitative Analyst at VirgoCX. I am building this website as a place to share my thoughts on quantitative finance, open source software, and other topics that interest me. Moreover, I hope to use this space to share some of my own projects and developments.
+At VirgoCX, my work mainly concerns market making, algorithmic trading, and quantitative research. Specifically, work has mainly revolved around the development and deployment of a new market making engine, programmed in Python, Cython, and C++.</description>
     </item>
     
   </channel>
