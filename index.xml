@@ -4,20 +4,16 @@
     <title></title>
     <link>http://thequant.ca/</link>
     <description>Recent content on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-ca</language>
-    <managingEditor>aaron@thequant.ca (Aaron Janeiro Stone)</managingEditor>
-    <webMaster>aaron@thequant.ca (Aaron Janeiro Stone)</webMaster>
-    <lastBuildDate>Tue, 28 Nov 2023 01:07:25 -0500</lastBuildDate><atom:link href="http://thequant.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Nov 2023 01:07:25 -0500</lastBuildDate>
+    <atom:link href="http://thequant.ca/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>http://thequant.ca/page/about/</link>
       <pubDate>Tue, 28 Nov 2023 01:07:25 -0500</pubDate>
-      <author>aaron@thequant.ca (Aaron Janeiro Stone)</author>
       <guid>http://thequant.ca/page/about/</guid>
-      <description>I am Aaron Janeiro Stone, a Quantitative Analyst at VirgoCX. I am building this website as a place to share my thoughts on quantitative finance, open source software, and other topics that interest me. Moreover, I hope to use this space to share some of my own projects and developments.
-At VirgoCX, my work mainly concerns market making, algorithmic trading, and quantitative research. Specifically, work has mainly revolved around the development and deployment of a new market making engine, programmed in Python, Cython, and C++.</description>
+      <description>&lt;p&gt;I am &lt;strong&gt;Aaron Janeiro Stone&lt;/strong&gt;, an Intermediate Software Engineer at Alpaca.&#xA;I am building this website as a place to share my thoughts on quantitative finance, open source software, and other topics that interest me.&#xA;Moreover, I hope to use this space to share some of my own projects and developments.&lt;/p&gt;&#xA;&lt;p&gt;At VirgoCX, my work as a Quantitative Analyst mainly concerned market making, algorithmic trading, and quantitative research. Specifically, work has mainly revolved around the&#xA;development and deployment of a new market making engine, programmed in Python, Cython, and C++.&#xA;I also developed an anomaly detection framework built upon models trained using TensorFlow (using transfer learning to allow us to generalize an &amp;ldquo;index&amp;rdquo; model to new trading pairs).&#xA;Previously, I also worked at QuantConnect as a Software Engineering Intern where I developed a time series submodule for the LEAN algorithmic trading engine.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

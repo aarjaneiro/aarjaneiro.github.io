@@ -4,9 +4,8 @@
     <title>Categories on </title>
     <link>http://thequant.ca/categories/</link>
     <description>Recent content in Categories on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-ca</language>
-    <managingEditor>aaron@thequant.ca (Aaron Janeiro Stone)</managingEditor>
-    <webMaster>aaron@thequant.ca (Aaron Janeiro Stone)</webMaster><atom:link href="http://thequant.ca/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://thequant.ca/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
